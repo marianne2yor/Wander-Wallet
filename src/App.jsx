@@ -2,7 +2,7 @@ import Balance from './components/Balance';
 import Expenses from './components/Expenses';
 import Header from './components/Header';
 import Income from './components/Income';
-import LocName from './components/Location and Name';
+import LocName from './components/LocationAndName';
 import Transactions from './components/Transactions';
 import { useState } from 'react';
 import BasicDialog from './components/BasicDialog';
